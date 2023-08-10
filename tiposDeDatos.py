@@ -20,4 +20,4 @@ precio = 12.50
 descuento = 0.8
 comida = "lasagna"
 
-print("{} quiere comer alta {}",format(nombre,comida)) 
+print("{} quiere comer alta {}".format(nombre,comida)) 
