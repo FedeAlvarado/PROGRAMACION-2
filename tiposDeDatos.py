@@ -21,3 +21,4 @@ descuento = 0.8
 comida = "lasagna"
 
 print("{} quiere comer alta {}".format(nombre,comida)) 
+print(f"{nombre} tiene que pagar {precio}")
